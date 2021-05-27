@@ -1,6 +1,6 @@
 **Introduction**
 
-The purpose of the program is to obtain card information from the user and display it on screen using graphics. I was unable to get the windows to close before the ‘quit’ option was entered. The program uses a While statement that stays for “While (true)”. An extra feature was implemented, where once ‘high’ is entered it displays the current high score. If during the program execution the high score is beaten, the new high score is registered.
+The purpose of the program is to obtain card information from the user and display it on screen using graphics.  The program uses a While statement that stays for “While (true)”. An extra feature was implemented, where once ‘high’ is entered it displays the current high score. If during the program execution the high score is beaten, the new high score is registered.
 1)  User entering playing card information
 The program takes in the following variables for the input of cards: ‘AH’, the first character, indicates the card value, the second character is the suit of the cards. Please note that only card values in the correct format listed below are accepted.
 
@@ -68,5 +68,3 @@ Example of the extra feature when the high score has not been beaten.
 
 
 **END**
-
-[COMP6601 ASG 1 RDavis_RDavis.pdf](https://github.com/RayDeveloper/Client_Server_Card_Display/files/6550622/COMP6601.ASG.1.RDavis_RDavis.pdf)
